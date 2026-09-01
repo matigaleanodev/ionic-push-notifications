@@ -27,7 +27,7 @@
     "@capacitor/keyboard": "7.0.2",
     "@capacitor/push-notifications": "^7.0.2",
     "@capacitor/status-bar": "7.0.2",
-    "@ionic/angular": "^8.7.3",
+    "@ionic/angular": "^8.8.19",
     "@ionic/storage-angular": "^4.0.0",
     "ionicons": "^8.0.13",
     "rxjs": "~7.8.2",
